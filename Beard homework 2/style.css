@@ -1,0 +1,43 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+
+.footer {
+    width: 100%;
+    height: 400px;
+    background-image: url(http://cdn.knowledgehi.com/1600x1200/20121024/nature%20rocks%20seascapes%201600x1200%20wallpaper_www.knowledgehi.com_65.jpg);
+    background-size: 100% 100%;
+    
+}
+
+
+.footer {
+    height: auto;
+    margin: auto;
+    width: 100%;
+    text-align:center;
+    padding:auto;
+    
+}
+
+
+#search {
+    border-width: 3px;
+    width: 400px;
+}
+
+a.button:hover {
+    color: aqua;
+}
+
+button {
+    color: rgb(56, 11, 17);
+}
+
+button:hover {
+    color: forestgreen;
+}
+
